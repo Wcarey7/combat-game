@@ -1,6 +1,7 @@
 # combat-game
 C++ Fantasy Combat Game
 
+[Design.pdf](https://github.com/Wcarey7/combat-game/files/9668140/Design.pdf)
 
 # Demo
 
